@@ -19,6 +19,7 @@ public class login {
 
     @io.cucumber.java.en.Given("^user is on login page$")
     public void userIsOnLoginPage() {
+        System.out.println("User is on login page");
     }
 
     @io.cucumber.java.en.When("^user enters invalid username and password$")
