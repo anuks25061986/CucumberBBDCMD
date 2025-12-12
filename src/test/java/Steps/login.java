@@ -11,8 +11,11 @@ public class login {
 
     @io.cucumber.java.en.And("^clicks on login button$")
     public void clicksOnLoginButton() {
+
         System.out.println("User is on login page");
+        System.out.println("Today is teacher's day");
     }
+
 
     @io.cucumber.java.en.Then("^user is navigated to the home page$")
     public void userIsNavigatedToTheHomePage() {

@@ -1,0 +1,7 @@
+/target/cucumber.json
+/target/test-classes/Feature/demo.feature
+/target/test-classes/Steps/HelloWorld.class
+/target/test-classes/Steps/login.class
+/target/test-classes/Feature/login.feature
+/target/classes/org/demo/bdd/Main.class
+/target/test-classes/Runner/TestRunner.class
